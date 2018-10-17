@@ -6,8 +6,12 @@
 
 
 Suggestions:
+
 -The question we are asking in this test is "Is there an association between the gender of the rider and the duration of the trip?". 
+
 -We are dealing with numerical data but we are not sure about the distribution of the data and whether it follows a normal distribution or not.
+
 -Moreover, the data is divided into two groups, men and women.
+
 -Therefore,  it would be best to use the "Mann-Whitney U test"to answer the question.   
 
